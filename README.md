@@ -1,5 +1,5 @@
 Hotel Management Booking System   
-repo -https://github.com/Nikhil2400/Hotel-Management-Booking-Syatem.git
+repo -(https://github.com/Nikhil2400/Hotel-Management-Booking-System.git)
 
 
 Using Frontend - Reactjs ,HTML,CSS 
